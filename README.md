@@ -1,7 +1,7 @@
 # Deeplearningbook_Study
 Deeplearningbook (Ian Goodfellow) group study in DSBA
 
-##### 전체 chapter 스터디를 진행하지않고, 보고싶은 chapter만 선정하여 스터디 진행
+##### 전체 chapter 스터디를 진행하지않고, 보고싶은 chapter만 선정하여 스터디 진행 (bold 진행완료)
 
 
 
@@ -15,7 +15,8 @@ Deeplearningbook (Ian Goodfellow) group study in DSBA
 
 ### Part 2:    
 
-	7. **Regularization for Deep Learning**   
+7. **Regularization for Deep Learning**
+
  	8.  Optimization for Training Deep Models 
 
 ### Part 3:   
