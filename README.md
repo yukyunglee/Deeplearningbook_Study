@@ -17,7 +17,7 @@ Deeplearningbook (Ian Goodfellow) group study in DSBA
 
 7. **Regularization for Deep Learning**
 
- 	8.  Optimization for Training Deep Models 
+8.  Optimization for Training Deep Models 
 
 ### Part 3:   
 
