@@ -12,7 +12,7 @@
 
 ![](./images/7.2.png)
 
-이건 7.1에서 나오는 bias와 variance는 NN관점에서 regularization에 사용하는것들을 의미함. 두가지 관점이 어떻게 다른지 함께 토론함
+7.1에서 나오는 bias와 variance는 NN관점에서 regularization에 사용하는것들을 의미함. 두가지 관점이 어떻게 다른지 함께 토론함
 
 
 
