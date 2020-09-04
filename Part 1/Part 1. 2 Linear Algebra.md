@@ -1,6 +1,6 @@
 ##### 진행자: 이유경 
 
-<img src="C:\Users\yukyunglee\AppData\Roaming\Typora\typora-user-images\image-20200904150720323.png" alt="image-20200904150720323" style="zoom:50%;" />
+<img src="./images/2.1.png" style="zoom:50%;" />
 
 ### ISSUE
 
@@ -26,11 +26,11 @@
 
   - 블로그 (https://sacko.tistory.com/16)
 
-    <img src="C:\Users\yukyunglee\AppData\Roaming\Typora\typora-user-images\image-20200904150622847.png" alt="image-20200904150622847" style="zoom:70%;" />
+    <img src="./images/2.2.png" style="zoom:67%;" />
 
   - 밑바닥부터 시작하는 딥러닝 1 (39p)
 
-    ![image-20200904150646674](C:\Users\yukyunglee\AppData\Roaming\Typora\typora-user-images\image-20200904150646674.png)
+    <img src="./images/2.3.png" style="zoom:80%;" />
 
 ### 2) Squared L2 Norm
 

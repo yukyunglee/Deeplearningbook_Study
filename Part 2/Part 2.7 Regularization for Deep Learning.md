@@ -2,7 +2,7 @@
 
 
 
-<img src="C:\Users\yukyunglee\AppData\Roaming\Typora\typora-user-images\image-20200904152004102.png" alt="image-20200904152004102" style="zoom:80%;" />
+![](./images/7.1.png)
 
 ### [9/4: ~7.5까지 진행]
 
@@ -10,7 +10,7 @@
 
 *(출처: 강필성 교수님 Business Analytics 수업)*
 
-<img src="C:\Users\yukyunglee\AppData\Roaming\Typora\typora-user-images\image-20200904151711316.png" alt="image-20200904151711316" style="zoom:50%;" />
+![](./images/7.2.png)
 
 이건 7.1에서 나오는 bias와 variance는 NN관점에서 regularization에 사용하는것들을 의미함. 두가지 관점이 어떻게 다른지 함께 토론함
 
