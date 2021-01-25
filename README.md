@@ -17,25 +17,25 @@ Deeplearningbook (Ian Goodfellow) group study in DSBA
 
 7. **Regularization for Deep Learning**
 
-8.  Optimization for Training Deep Models 
+8.  **Optimization for Training Deep Models**
 
 ### Part 3:   
 
-​	13. Linear Factor Models  
+13. **Linear Factor Models**  
 
-​	14. Autoencoders 
+14. Autoencoders 
 
-​	15. Representation Learning
+15. Representation Learning
 
-​	16. Structured Probabilistic Models for Deep Learning  
+16. Structured Probabilistic Models for Deep Learning  
 
-​	17. Monte Carlo Methods   
+17. Monte Carlo Methods   
 
-​	18. Confronting the Partition Function 
+18. Confronting the Partition Function 
 
-​	19. Approximate Inference 
+19. Approximate Inference 
 
-​	20. Deep Generative Models 
+20. Deep Generative Models 
 
 
 
