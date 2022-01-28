@@ -11,7 +11,7 @@ Deeplearningbook (Ian Goodfellow) group study in DSBA
 
 : Deeplearningbook (Ian Goodfellow) group study in DSBA🙂
 
-|                           yukyung                            |                           Jonghyn                            |                           hoonsang                           |                           Hyeyeon                            |
+|                           yukyung                            |                           Jonghyun                           |                           hoonsang                           |                           Hyeyeon                            |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | <img src="https://github.com/yukyunglee/Deeplearningbook_Study/blob/0e83b0f637de8f7a632794f044f7620d175e33c6/img/ernie.jpeg" width=150px> | <img src="https://github.com/yukyunglee/Deeplearningbook_Study/blob/0e83b0f637de8f7a632794f044f7620d175e33c6/img/bert.jpeg" width=150px> | <img src="https://github.com/yukyunglee/Deeplearningbook_Study/blob/0e83b0f637de8f7a632794f044f7620d175e33c6/img/cookie.jpeg" width=150px> | <img src="https://github.com/yukyunglee/Deeplearningbook_Study/blob/0e83b0f637de8f7a632794f044f7620d175e33c6/img/elmo.jpeg" width=150px> |
 |         **[Github](https://github.com/yukyunglee)**          |        **[Github](https://github.com/ExcelsiorCJH)**         |           **[Github](https://github.com/Hoonst)**            |          **[Github](https://github.com/kimsy701)**           |
