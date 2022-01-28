@@ -13,7 +13,7 @@ Deeplearningbook (Ian Goodfellow) group study in DSBA
 
 |                           yukyung                            |                           Jonghyn                            |                           hoonsang                           |                           Hyeyeon                            |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| <img src="https://github.com/yukyunglee/Transformer_Survey_Study/blob/3254384e154ff2a3232a9fe723da36b1ceb92705/img/yk.jpg" width=150px> | <img src="https://github.com/yukyunglee/Transformer_Survey_Study/blob/3254384e154ff2a3232a9fe723da36b1ceb92705/img/ms.jpeg" width=150px> | <img src="https://github.com/yukyunglee/Transformer_Survey_Study/blob/3254384e154ff2a3232a9fe723da36b1ceb92705/img/hs.jpeg" width=150px> | <img src="https://github.com/yukyunglee/Transformer_Survey_Study/blob/3254384e154ff2a3232a9fe723da36b1ceb92705/img/jina.jpeg" width=150px> |
+| <img src="https://github.com/yukyunglee/Deeplearningbook_Study/blob/0e83b0f637de8f7a632794f044f7620d175e33c6/img/ernie.jpeg" width=150px> | <img src="https://github.com/yukyunglee/Deeplearningbook_Study/blob/0e83b0f637de8f7a632794f044f7620d175e33c6/img/bert.jpeg" width=150px> | <img src="https://github.com/yukyunglee/Deeplearningbook_Study/blob/0e83b0f637de8f7a632794f044f7620d175e33c6/img/cookie.jpeg" width=150px> | <img src="https://github.com/yukyunglee/Deeplearningbook_Study/blob/0e83b0f637de8f7a632794f044f7620d175e33c6/img/elmo.jpeg" width=150px> |
 |         **[Github](https://github.com/yukyunglee)**          |        **[Github](https://github.com/ExcelsiorCJH)**         |           **[Github](https://github.com/Hoonst)**            |          **[Github](https://github.com/kimsy701)**           |
 
 #### 2) 기간
@@ -30,7 +30,7 @@ Deeplearningbook (Ian Goodfellow) group study in DSBA
 
 ### Part 1:   
 
-2. **Linear Algebra (31~52)**   : 이유경
+2. **Linear Algebra (31~52)**  : 이유경
 
 3. **Probability and Information Theory (53~79)**  : 윤훈상
 4.  **Numerical Computation (80~96)**  : 최종현
